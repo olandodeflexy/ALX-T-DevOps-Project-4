@@ -18,7 +18,7 @@ This ML app predicts housing prices based on a number of factors such as average
 - Install minikube as described here [link](https://minikube.sigs.k8s.io/docs/start/)
 - Install hadolint with these commands `curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 && \`
  `sudo install minikube-linux-amd64 /usr/local/bin/minikube`
-- 
+
 
 ### Step 2: Run Docker container
 - Run the application on docker  `./run_docker.sh`
