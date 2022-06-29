@@ -14,6 +14,11 @@ This ML app predicts housing prices based on a number of factors such as average
 
 - Create pyhton virtual environment `python -m venv ~/.devops` and activate ` source ~/.devops/bin/activate`
 - Install dependenciesand use `make lint` to lint the `Python` and `Docker` file
+- Install docker as described in the [link](https://docs.docker.com/engine/install/ubuntu/).
+- Install minikube as described here [link](https://minikube.sigs.k8s.io/docs/start/)
+- Install hadolint with these commands `curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 && \`
+ `sudo install minikube-linux-amd64 /usr/local/bin/minikube`
+- 
 
 ### Step 2: Run Docker container
 - Run the application on docker  `./run_docker.sh`
