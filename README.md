@@ -22,6 +22,7 @@ This ML app predicts housing prices based on a number of factors such as average
 
 ### Step 2: Run Docker container
 - Run the application on docker  `./run_docker.sh`
+- Run `./make_predicton.sh` to make predictions.
 
 ### Step 3: Upload to Docker Hub
 - Edit `./upload_docker.sh` file, and run it to upload the docker image to docker hub
@@ -29,3 +30,4 @@ This ML app predicts housing prices based on a number of factors such as average
 
 ### Step 4: Kubernetes deployment
 - Run `./run_kubernetes.sh` to deploy to kubernetes
+- Run `./make_predicton.sh` to make predictions.
