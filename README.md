@@ -49,7 +49,7 @@ source .devops/bin/activate
 * Create Flask app in Container
 * Run via kubectl
 
-#INSTRUCTIONS TO RUN THE APP
+# INSTRUCTIONS TO RUN THE APP
 
 ### Step 1: Install dependencies
 
