@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Supporting-material/
-project-ml-microservice-kubernetes/
+project-ml-microservice-kubernetes
+minikube-linux-amd64/
