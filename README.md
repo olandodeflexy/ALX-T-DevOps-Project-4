@@ -2,8 +2,9 @@
 
 This ML app predicts housing prices based on a number of factors such as average rooms in a home, data about highway access, teacher-to-pupil ratios, and so on. The dataset can be found on, [the data source site](https://www.kaggle.com/c/boston-housing). 
 
-# INSTRUCTIONS TO RUN THE APP
-### Kubernetes Steps
+## INSTRUCTIONS TO RUN THE APP
+
+### Environment Setup
 
 * Run `make setup` to setup `pyhton` virtual environment.
 * Run `make install` to install dependencies.
