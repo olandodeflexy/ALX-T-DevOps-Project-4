@@ -10,7 +10,7 @@ This ML app predicts housing prices based on a number of factors such as average
 * Run `make install` to install dependencies.
 
 
-### Step 1: Install dependencies
+### Step 1: Install dependencies.
 
 - Create pyhton virtual environment `python -m venv ~/.devops` and activate ` source ~/.devops/bin/activate`
 - Install dependenciesand use `make lint` to lint the `Python` and `Docker` file
