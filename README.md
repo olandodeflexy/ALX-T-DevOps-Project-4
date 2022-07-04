@@ -4,7 +4,7 @@ This ML app predicts housing prices based on a number of factors such as average
 
 ## INSTRUCTIONS TO RUN THE APP
 
-### Environment Setup
+### Environment Setup.
 
 * Run `make setup` to setup `pyhton` virtual environment.
 * Run `make install` to install dependencies.
